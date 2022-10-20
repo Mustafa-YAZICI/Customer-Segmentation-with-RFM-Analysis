@@ -23,3 +23,4 @@ RFM analysis is a model for segmenting customers based on three parameters that 
 ## Datasets:
 
 flo_data_20k.csv: The dataset includes the sales of FLO between 2020-2021. 
+It cannot be shared because the relevant dataset is not allowed to be shared.
